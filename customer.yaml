@@ -9,8 +9,6 @@ metadata:
       url: http://backstage.io/customer/
     - title: Documentation
       url: https://backstage.io/docs/customer
-    - title: Storybook
-      url: https://backstage.io/storybook/customer
   annotations:
     github.com/project-slug: backstage/backstage/customer
     backstage.io/techdocs-ref: dir:./customer
